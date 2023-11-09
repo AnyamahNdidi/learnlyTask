@@ -1,5 +1,4 @@
-import Image from "next/image";
-import { Inter } from "next/font/google";
+
 import Hero from "@/components/Hero";
 import MovieCard from "@/components/commons/MovieCard";
 import SearchInput from "@/components/SearchInput";
